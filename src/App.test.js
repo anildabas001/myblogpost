@@ -1,4 +1,5 @@
 import { render, screen } from '@testing-library/react';
+import Navigation from './Components/Navigation';
 import App from './App';
 
 test('renders learn react link', () => {
